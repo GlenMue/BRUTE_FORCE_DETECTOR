@@ -26,15 +26,22 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sakshay2318/Brute-Force-Attack-Detection-Using-Machine-Learning.git
+git clone https://github.com/GlenMue/BRUTE_FORCE_DETECTOR
 ```
 2. Navigate to the project directory:
 ```bash
-cd Brute-Force-Attack-Detection-Using-Machine-Learning
+cd BRUTE_FORCE_DETECTOR
 ```
 3. Install required Python packages:
 ```bash
 pip install -r requirements.txt
+```
+
+4. For the Nextjs frontend:
+```bash
+cd frontend
+npm install
+npm run dev
 ```
 
 ## Usage
